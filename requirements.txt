@@ -7,3 +7,5 @@ contractions
 nltk
 spacy
 wordcloud
+flask
+pickle
